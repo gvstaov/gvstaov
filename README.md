@@ -5,6 +5,6 @@
 - :space_invader:	*I like hardware, gaming, and programming*
 - :man_technologist: *Currently, I'm pursuing a degree in Information Systems and studying Backend, Data Science, and working on some personal projects.*
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=synthwave&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvstaov&theme=synthwave&show_icons=true)
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,html,css,)](https://skillicons.dev)

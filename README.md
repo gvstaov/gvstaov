@@ -6,3 +6,5 @@
 - :man_technologist: *Currently, I'm pursuing a degree in Information Systems and studying Backend, Data Science, and working on some personal projects.*
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvstaov&show_icons=true&theme=synthwave)
+
+[![My Skills](https://skillicons.dev/icons?i=java,py,html,css,)](https://skillicons.dev)

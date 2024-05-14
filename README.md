@@ -7,4 +7,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvstaov&theme=synthwave&show_icons=true)
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,html,css,c#,)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,cs,py,java,git" />
+  </a>
+</p>

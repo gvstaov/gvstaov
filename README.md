@@ -1,5 +1,5 @@
 - *:godmode: Welcome to my profile!*
-- :ninja:	*My name is Gustavo Silva and I'm glad to have you here!*
+- :ninja:	*My name is Gustavo and I'm glad to have you here!*
 - :adult:	*23 years old and currently pursuing a degree in Information Systems.*
 - :space_invader:	*I like hardware, gaming, and coding.*
 

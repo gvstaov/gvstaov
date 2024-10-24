@@ -7,6 +7,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,cs,py,mysql&theme=light" />
+    <img src="https://skillicons.dev/icons?i=cs,py,mysql&theme=light" />
   </a>
 </p>

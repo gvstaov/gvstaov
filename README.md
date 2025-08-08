@@ -18,10 +18,7 @@
   <a href="mailto:gustavoavlis@icloud.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
   <a href="https://www.linkedin.com/in/gustavoavlis/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
   <a href="https://www.instagram.com/gvstaov"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
-  <a href="https://x.com/Gvstaov"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" /></a>
   <a href="http://discordapp.com/users/222111542404055042"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=black" /></a>
-  <a href="https://www.tiktok.com/@gvstaov"><img src="https://img.shields.io/badge/TikTok-black?&style=for-the-badge&logo=tiktok&logoColor=white&color=black" /></a>
-  <a href="https://www.twitch.tv/gvstaov"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white&color=black" /></a>
   <a href=""><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a>
   
 

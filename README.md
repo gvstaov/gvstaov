@@ -5,7 +5,7 @@
 
 - *:godmode: Welcome to my profile!*
 - :ninja:	*My name is Gustavo and I'm glad to have you here!*
-- :adult:	*I have 23 years old and currently pursuing a degree in Information Systems.*
+- :adult:	*I have 23 years old and currently pursuing a degree in software engineering.*
 - :space_invader:	*I like hardware, gaming, and coding.*
 
 
@@ -32,6 +32,7 @@
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
  ##### Backend & Frameworks:
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;

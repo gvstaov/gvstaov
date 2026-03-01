@@ -57,7 +57,7 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
  ##### Development Environments:
-  ![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor)]
+  ![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor)
 
  ##### Notes & Organization:
   ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)

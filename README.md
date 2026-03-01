@@ -4,8 +4,7 @@
 </div>
 
 - *:godmode: Welcome to my profile!*
-- :ninja:	*My name is Gustavo and I'm glad to have you here!*
-- :adult:	*I have 24 years old and currently pursuing a degree in software engineering.*
+- :adult:	*My name is Gustavo and i have 24 years old and currently pursuing a degree in software engineering.*
 - :space_invader:	*I like hardware, gaming, and coding.*
 
 

@@ -3,7 +3,7 @@
   # **ABOUT ME**
 </div>
 
-🥷 *My name is Gustavo and i have 24 years old and currently pursuing a degree in software engineering.*
+🥷 *My name is Gustavo and i have 25 years old and currently pursuing a degree in software engineering.*
 
   <!-- Social Links -->
 <div align="center">
